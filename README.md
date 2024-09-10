@@ -1,2 +1,0 @@
-# Vindicated
-vindicated server utils
